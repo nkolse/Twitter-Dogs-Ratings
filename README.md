@@ -23,3 +23,9 @@ stage. The following questions were used to guide in the achieving of the object
 3. What are the top 5 popular dog names?
 4. What is the Popularity of dog stage?
 5. Which is most favorite dog in 2015, 2016, and 2017?
+
+## Summary of Findings
+The algorithms of rating dogs p2_confident has a success rate of 74.87% followed closely by p1_contident with percentage success rate of 73.91. The third algorithm p3_confident has a success rate of 72.30%. 
+The most favorite dog breed is Golden Retriever, Labrador Retriever, Pembroke, Chihuahua, Pug according to the p1_confident algorithm. 
+The top five most popular dog names are Oliver, Turker, Charlie, Cooper and Penny, they both have an occurrence of 10 times.
+In the WeRateDogs the most common dog stage is pupper which is followed by the doggo, the third in the popularity is puppo and the last one is floofer. It clear that the pupper will remain most popular even if the three other dog stages are combined. The bar shows the visual presentation.
